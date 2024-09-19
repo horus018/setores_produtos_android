@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetoresProdutosLucasRubira</string>
+    <string name="margem_de_lucro_do_setor">Profit margin</string>
+    <string name="voltar">Back</string>
+    <string name="editar">Edit</string>
+    <string name="remover">Remove</string>
+    <string name="descricao_do_produto">Product Description</string>
+    <string name="digite_a_descricao">Enter the description</string>
+    <string name="descriсao_do_setor">Sector Description</string>
+    <string name="preco">Product price</string>
+    <string name="digite_o_preco">Enter the price</string>
+    <string name="estoque">Stock</string>
+    <string name="digite_a_quantidade_em_estoque">Enter the quantity in stock</string>
+    <string name="setor">Sector</string>
+    <string name="confirmar">Confirm</string>
+    <string name="setores">Sectors</string>
+    <string name="produtos">Products</string>
+    <string name="digite_a_margem_de_lucro">Enter profit margin</string>
+</resources>
